@@ -2,9 +2,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Welcome to JavaSpring On heroku</title>
 </head>
 <body>
-<h1>Installed in Heroku</h1>
+<h1>Installed on Heroku</h1>
 </body>
 </html>
