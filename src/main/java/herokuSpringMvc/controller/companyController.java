@@ -13,10 +13,15 @@ public class companyController {
 		return "index";
 	}
 	
-	@RequestMapping(value="/welcome")
+	@RequestMapping(value="/welcome", method=RequestMethod.GET)
 	public String welcome()
 	{
 		return "welcome";
+	}
+	@RequestMapping(value="/login", method=RequestMethod.GET)
+	public String login()
+	{
+		return "login";
 	}
 
 }
