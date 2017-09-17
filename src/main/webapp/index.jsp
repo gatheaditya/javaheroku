@@ -6,5 +6,6 @@
 </head>
 <body>
 <h1>Installed on Heroku</h1>
+<h1>Welcome to Heroku Java spring app</h1>
 </body>
 </html>
