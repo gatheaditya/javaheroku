@@ -10,7 +10,7 @@ public class companyController {
 	@RequestMapping(value="/",method=RequestMethod.GET)
 	public String index()
 	{
-		return "test";
+		return "login";
 	}
 	
 	@RequestMapping(value="/welcome", method=RequestMethod.GET)
