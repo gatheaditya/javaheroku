@@ -10,7 +10,7 @@ public class companyController {
 	@RequestMapping(value="/",method=RequestMethod.GET)
 	public String index()
 	{
-		return "login";
+		return "test";
 	}
 	
 	@RequestMapping(value="/welcome", method=RequestMethod.GET)
@@ -18,10 +18,10 @@ public class companyController {
 	{
 		return "welcome";
 	}
-//	@RequestMapping(value="/login", method=RequestMethod.GET)
-//	public String login()
-//	{
-//		return "login";
-//	}
+	@RequestMapping(value="/login", method=RequestMethod.GET)
+	public String login()
+	{
+		return "login";
+	}
 
 }
