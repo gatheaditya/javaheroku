@@ -5,7 +5,7 @@
 #login-box
 {
 padding:20px;
-margin:50% 50%;
+margin:200px 200px;
 border-color:green;
 border-radius:10px;
 
