@@ -9,7 +9,7 @@
 <body>
 <div>
 <form action="">
-username:<input type="text" name="username"/>
+username:<input type="text" name="username"/><br>
 Password:<input type="password" name="password"/>
 <input type="button" value="submit"/>
 </form>
