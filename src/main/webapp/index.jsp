@@ -25,7 +25,7 @@ border-radius:10px;
 <div id="login-box">
 <form action="">
 username:<input type="text" name="username"/><br>
-Password:<input type="password" name="password"/></br>
+Password:<input type="password" name="password"/>
 <input type="button" value="submit"/>
 </form>
 
